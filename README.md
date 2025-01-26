@@ -1,4 +1,4 @@
-Modify the code in discussion3_starter.py.  To add this file to the staging area for a commit use:
+Modify the code in hw3_starter.py.  To add this file to the staging area for a commit use:
 
 - ```git add discussion3_starter.py OR git add .```
 
