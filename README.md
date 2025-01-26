@@ -4,7 +4,8 @@ Modify the code in hw03_starter.py.  To add this file to the staging area for a 
 
 To commit use:
 
-- ```git commit -m "[insert commit message]"``` -> Your commit message should indicate what changes you made.
+- ```git commit -m "[insert commit message]"```
+- Your commit message should indicate what changes you made. For example, ```git commit -m "Completed __init__ method"```
 
 To push your commits to GitHub use:
 
